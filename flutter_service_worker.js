@@ -9,7 +9,7 @@ const RESOURCES = {
 "assets/assets/govofuk.png": "d419b983bd974499209ad8eb4cce7521",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "d1b159323a98a6c072705482fd8af816",
+"assets/NOTICES": "94330a34b19ad795994e8a32763a19b7",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
@@ -22,9 +22,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "6b3d88c8e4f06090f7f34ecab8434c80",
-"/": "6b3d88c8e4f06090f7f34ecab8434c80",
-"main.dart.js": "72efe5180133b26e036f57144c356ef0",
+"index.html": "e715153e5a1fb42aafaf4891048ec9b7",
+"/": "e715153e5a1fb42aafaf4891048ec9b7",
+"main.dart.js": "e9ddf37de1407f92ff788e857a9fec0e",
 "manifest.json": "cb721998d81362fec8f3b3214a6f142d",
 "version.json": "00025d9bdc84d5cf846f8d7eb1b14582"
 };
